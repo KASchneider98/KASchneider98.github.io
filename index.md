@@ -1,8 +1,1 @@
-# Welcome to my Web Mapping Portfolio! 
-Hi, I'm Kennedy Schneider. 
-This is a very basic first page for my website, which I will be building as part of the GIS course. 
-Here are a few things I might include later: 
-* Links to my web mapping projects 
-* Information about my skills and experience 
-* A way to contact me 
-**Stay tuned for updates!**
+<iframe width='100%' height='600px' src="https://api.mapbox.com/styles/v1/kennedy72698/cmg6uva0500ge01sm01p35qr0.html?title=false&access_token=pk.eyJ1Ijoia2VubmVkeTcyNjk4IiwiYSI6ImNtZzRyZDFudDE5ajMyaXExbXFnZnM5amIifQ.aWC4Gf7NlWoXesD0IXs3eg&zoomwheel=false#2/38/-34" title="Chicago Parks" style="border:none;"></iframe>
